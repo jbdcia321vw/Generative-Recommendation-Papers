@@ -16,6 +16,13 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging **[[PDF](https://arxiv.org/abs/2601.15930)]**
+- `Arxiv(2026)`When Text-as-Vision Meets Semantic IDs in Generative Recommendation: An Empirical Study **[[PDF](https://arxiv.org/abs/2601.14697)]**
+- `Arxiv(2026)`FusID: Modality-Fused Semantic IDs for Generative Music Recommendation **[[PDF](https://arxiv.org/abs/2601.08764)]**
+- `Arxiv(2026)`Unleashing the Native Recommendation Potential: LLM-Based Generative Recommendation via Structured Term Identifiers **[[PDF](https://arxiv.org/abs/2601.06798)]**
+- `Arxiv(2026)`PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations **[[PDF](https://arxiv.org/abs/2601.04674)]**
+- `Arxiv(2026)`Reasoning Over Space: Enabling Geographic Reasoning for LLM-Based Generative Next POI Recommendation **[[PDF](https://arxiv.org/abs/2601.04562)]**
+- `Arxiv(2026)`RelayGR: Scaling Long-Sequence Generative Recommendation via Cross-Stage Relay-Race Inference **[[PDF](https://arxiv.org/abs/2601.01712)]**
 - `AAAI(2026)`Inductive Generative Recommendation via Retrieval-based Speculation **[[PDF](https://arxiv.org/abs/2410.02939)]**
 - `KDD(2026)`Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2512.02474)]**
 - `WSDM(2026)`CAT-ID: Category-Tree Integrated Document Identifier Learning for Generative Retrieval In E-commerce **[[PDF](https://arxiv.org/abs/2511.01461)]**

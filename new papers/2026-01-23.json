@@ -1,0 +1,154 @@
+[
+    {
+        "title": "MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging",
+        "authors": [
+            "Tianjun Wei",
+            "Enneng Yang",
+            "Yingpeng Du",
+            "Huizhong Guo",
+            "Jie Zhang",
+            "Zhu Sun"
+        ],
+        "arxiv_id": "2601.15930",
+        "pdf_url": "https://arxiv.org/pdf/2601.15930v1",
+        "year": 2026,
+        "summary": "Model merging (MM) offers an efficient mechanism for integrating multiple specialized models without access to original training data or costly retraining. While MM has demonstrated success in domains like computer vision, its role in recommender systems (RSs) remains largely unexplored. Recently, Generative Recommendation (GR) has emerged as a new paradigm in RSs, characterized by rapidly growing model scales and substantial computational costs, making MM particularly appealing for cost-sensitive deployment scenarios. In this work, we present the first systematic study of MM in GR through a contextual lens. We focus on a fundamental yet underexplored challenge in real-world: how to merge generative recommenders specialized to different real-world contexts, arising from temporal evolving user behaviors and heterogeneous application domains. To this end, we propose a unified framework MMGRid, a structured contextual grid of GR checkpoints that organizes models trained under diverse contexts induced by temporal evolution and domain diversity. All checkpoints are derived from a shared base LLM but fine-tuned on context-specific data, forming a realistic and controlled model space for systematically analyzing MM across GR paradigms and merging algorithms. Our investigation reveals several key insights. First, training GR models from LLMs can introduce parameter conflicts during merging due to token distribution shifts and objective disparities; such conflicts can be alleviated by disentangling task-aware and context-specific parameter changes via base model replacement. Second, incremental training across contexts induces recency bias, which can be effectively balanced through weighted contextual merging. Notably, we observe that optimal merging weights correlate with context-dependent interaction characteristics, offering practical guidance for weight selection in real-world deployments.",
+        "primary_category": "cs.IR"
+    },
+    {
+        "title": "When Text-as-Vision Meets Semantic IDs in Generative Recommendation: An Empirical Study",
+        "authors": [
+            "Shutong Qiao",
+            "Wei Yuan",
+            "Tong Chen",
+            "Xiangyu Zhao",
+            "Quoc Viet Hung Nguyen",
+            "Hongzhi Yin"
+        ],
+        "arxiv_id": "2601.14697",
+        "pdf_url": "https://arxiv.org/pdf/2601.14697v1",
+        "year": 2026,
+        "summary": "Semantic ID learning is a key interface in Generative Recommendation (GR) models, mapping items to discrete identifiers grounded in side information, most commonly via a pretrained text encoder. However, these text encoders are primarily optimized for well-formed natural language. In real-world recommendation data, item descriptions are often symbolic and attribute-centric, containing numerals, units, and abbreviations. These text encoders can break these signals into fragmented tokens, weakening semantic coherence and distorting relationships among attributes. Worse still, when moving to multimodal GR, relying on standard text encoders introduces an additional obstacle: text and image embeddings often exhibit mismatched geometric structures, making cross-modal fusion less effective and less stable.\n  In this paper, we revisit representation design for Semantic ID learning by treating text as a visual signal. We conduct a systematic empirical study of OCR-based text representations, obtained by rendering item descriptions into images and encoding them with vision-based OCR models. Experiments across four datasets and two generative backbones show that OCR-text consistently matches or surpasses standard text embeddings for Semantic ID learning in both unimodal and multimodal settings. Furthermore, we find that OCR-based Semantic IDs remain robust under extreme spatial-resolution compression, indicating strong robustness and efficiency in practical deployments.",
+        "primary_category": "cs.IR"
+    },
+    {
+        "title": "FusID: Modality-Fused Semantic IDs for Generative Music Recommendation",
+        "authors": [
+            "Haven Kim",
+            "Yupeng Hou",
+            "Julian McAuley"
+        ],
+        "arxiv_id": "2601.08764",
+        "pdf_url": "https://arxiv.org/pdf/2601.08764v1",
+        "year": 2026,
+        "summary": "Generative recommendation systems have achieved significant advances by leveraging semantic IDs to represent items. However, existing approaches that tokenize each modality independently face two critical limitations: (1) redundancy across modalities that reduces efficiency, and (2) failure to capture inter-modal interactions that limits item representation. We introduce FusID, a modality-fused semantic ID framework that addresses these limitations through three key components: (i) multimodal fusion that learns unified representations by jointly encoding information across modalities, (ii) representation learning that brings frequently co-occurring item embeddings closer while maintaining distinctiveness and preventing feature redundancy, and (iii) product quantization that converts the fused continuous embeddings into multiple discrete tokens to mitigate ID conflict. Evaluated on a multimodal next-song recommendation (i.e., playlist continuation) benchmark, FusID achieves zero ID conflicts, ensuring that each token sequence maps to exactly one song, mitigates codebook underutilization, and outperforms baselines in terms of MRR and Recall@k (k = 1, 5, 10, 20).",
+        "primary_category": "cs.IR"
+    },
+    {
+        "title": "Unleashing the Native Recommendation Potential: LLM-Based Generative Recommendation via Structured Term Identifiers",
+        "authors": [
+            "Zhiyang Zhang",
+            "Junda She",
+            "Kuo Cai",
+            "Bo Chen",
+            "Shiyao Wang",
+            "Xinchen Luo",
+            "Qiang Luo",
+            "Ruiming Tang",
+            "Han Li",
+            "Kun Gai",
+            "Guorui Zhou"
+        ],
+        "arxiv_id": "2601.06798",
+        "pdf_url": "https://arxiv.org/pdf/2601.06798v1",
+        "year": 2026,
+        "summary": "Leveraging the vast open-world knowledge and understanding capabilities of Large Language Models (LLMs) to develop general-purpose, semantically-aware recommender systems has emerged as a pivotal research direction in generative recommendation. However, existing methods face bottlenecks in constructing item identifiers. Text-based methods introduce LLMs' vast output space, leading to hallucination, while methods based on Semantic IDs (SIDs) encounter a semantic gap between SIDs and LLMs' native vocabulary, requiring costly vocabulary expansion and alignment training. To address this, this paper introduces Term IDs (TIDs), defined as a set of semantically rich and standardized textual keywords, to serve as robust item identifiers. We propose GRLM, a novel framework centered on TIDs, employs Context-aware Term Generation to convert item's metadata into standardized TIDs and utilizes Integrative Instruction Fine-tuning to collaboratively optimize term internalization and sequential recommendation. Additionally, Elastic Identifier Grounding is designed for robust item mapping. Extensive experiments on real-world datasets demonstrate that GRLM significantly outperforms baselines across multiple scenarios, pointing a promising direction for generalizable and high-performance generative recommendation systems.",
+        "primary_category": "cs.IR"
+    },
+    {
+        "title": "PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations",
+        "authors": [
+            "Chengcheng Guo",
+            "Kuo Cai",
+            "Yu Zhou",
+            "Qiang Luo",
+            "Ruiming Tang",
+            "Han Li",
+            "Kun Gai",
+            "Guorui Zhou"
+        ],
+        "arxiv_id": "2601.04674",
+        "pdf_url": "https://arxiv.org/pdf/2601.04674v1",
+        "year": 2026,
+        "summary": "Generative Recommendation has emerged as a promising paradigm, reformulating recommendation as a sequence-to-sequence generation task over hierarchical Semantic IDs. However, existing methods suffer from a critical issue we term Semantic Drift, where errors in early, high-level tokens irreversibly divert the generation trajectory into irrelevant semantic subspaces. Inspired by Process Reward Models (PRMs) that enhance reasoning in Large Language Models, we propose Promise, a novel framework that integrates dense, step-by-step verification into generative models. Promise features a lightweight PRM to assess the quality of intermediate inference steps, coupled with a PRM-guided Beam Search strategy that leverages dense feedback to dynamically prune erroneous branches. Crucially, our approach unlocks Test-Time Scaling Laws for recommender systems: by increasing inference compute, smaller models can match or surpass larger models. Extensive offline experiments and online A/B tests on a large-scale platform demonstrate that Promise effectively mitigates Semantic Drift, significantly improving recommendation accuracy while enabling efficient deployment.",
+        "primary_category": "cs.IR"
+    },
+    {
+        "title": "Reasoning Over Space: Enabling Geographic Reasoning for LLM-Based Generative Next POI Recommendation",
+        "authors": [
+            "Dongyi Lv",
+            "Qiuyu Ding",
+            "Heng-Da Xu",
+            "Zhaoxu Sun",
+            "Zhi Wang",
+            "Feng Xiong",
+            "Mu Xu"
+        ],
+        "arxiv_id": "2601.04562",
+        "pdf_url": "https://arxiv.org/pdf/2601.04562v1",
+        "year": 2026,
+        "summary": "Generative recommendation with large language models (LLMs) reframes prediction as sequence generation, yet existing LLM-based recommenders remain limited in leveraging geographic signals that are crucial in mobility and local-services scenarios. Here, we present Reasoning Over Space (ROS), a framework that utilizes geography as a vital decision variable within the reasoning process. ROS introduces a Hierarchical Spatial Semantic ID (SID) that discretizes coarse-to-fine locality and POI semantics into compositional tokens, and endows LLM with a three-stage Mobility Chain-of-Thought (CoT) paradigm that models user personality, constructs an intent-aligned candidate space, and performs locality informed pruning. We further align the model with real world geography via spatial-guided Reinforcement Learning (RL). Experiments on three widely used location-based social network (LBSN) datasets show that ROS achieves over 10% relative gains in hit rate over strongest LLM-based baselines and improves cross-city transfer, despite using a smaller backbone model.",
+        "primary_category": "cs.AI"
+    },
+    {
+        "title": "RelayGR: Scaling Long-Sequence Generative Recommendation via Cross-Stage Relay-Race Inference",
+        "authors": [
+            "Jiarui Wang",
+            "Huichao Chai",
+            "Yuanhang Zhang",
+            "Zongjin Zhou",
+            "Wei Guo",
+            "Xingkun Yang",
+            "Qiang Tang",
+            "Bo Pan",
+            "Jiawei Zhu",
+            "Ke Cheng",
+            "Yuting Yan",
+            "Shulan Wang",
+            "Yingjie Zhu",
+            "Zhengfan Yuan",
+            "Jiaqi Huang",
+            "Yuhan Zhang",
+            "Xiaosong Sun",
+            "Zhinan Zhang",
+            "Hong Zhu",
+            "Yongsheng Zhang",
+            "Tiantian Dong",
+            "Zhong Xiao",
+            "Deliang Liu",
+            "Chengzhou Lu",
+            "Yuan Sun",
+            "Zhiyuan Chen",
+            "Xinming Han",
+            "Zaizhu Liu",
+            "Yaoyuan Wang",
+            "Ziyang Zhang",
+            "Yong Liu",
+            "Jinxin Xu",
+            "Yajing Sun",
+            "Zhoujun Yu",
+            "Wenting Zhou",
+            "Qidong Zhang",
+            "Zhengyong Zhang",
+            "Zhonghai Gu",
+            "Yibo Jin",
+            "Yongxiang Feng",
+            "Pengfei Zuo"
+        ],
+        "arxiv_id": "2601.01712",
+        "pdf_url": "https://arxiv.org/pdf/2601.01712v1",
+        "year": 2026,
+        "summary": "Real-time recommender systems execute multi-stage cascades (retrieval, pre-processing, fine-grained ranking) under strict tail-latency SLOs, leaving only tens of milliseconds for ranking. Generative recommendation (GR) models can improve quality by consuming long user-behavior sequences, but in production their online sequence length is tightly capped by the ranking-stage P99 budget. We observe that the majority of GR tokens encode user behaviors that are independent of the item candidates, suggesting an opportunity to pre-infer a user-behavior prefix once and reuse it during ranking rather than recomputing it on the critical path. Realizing this idea at industrial scale is non-trivial: the prefix cache must survive across multiple pipeline stages before the final ranking instance is determined, the user population implies cache footprints far beyond a single device, and indiscriminate pre-inference would overload shared resources under high QPS. We present RelayGR, a production system that enables in-HBM relay-race inference for GR. RelayGR selectively pre-infers long-term user prefixes, keeps their KV caches resident in HBM over the request lifecycle, and ensures the subsequent ranking can consume them without remote fetches. RelayGR combines three techniques: 1) a sequence-aware trigger that admits only at-risk requests under a bounded cache footprint and pre-inference load, 2) an affinity-aware router that co-locates cache production and consumption by routing both the auxiliary pre-infer signal and the ranking request to the same instance, and 3) a memory-aware expander that uses server-local DRAM to capture short-term cross-request reuse while avoiding redundant reloads. We implement RelayGR on Huawei Ascend NPUs and evaluate it with real queries. Under a fixed P99 SLO, RelayGR supports up to 1.5$\\times$ longer sequences and improves SLO-compliant throughput by up to 3.6$\\times$.",
+        "primary_category": "cs.DC"
+    }
+]
