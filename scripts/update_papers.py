@@ -139,10 +139,10 @@ def main():
     updater.load_existing_papers()
 
     new_papers = updater.query_new_papers()
-    os.makedirs(f'./new papers', exist_ok=True)
+    #os.makedirs(f'./new papers', exist_ok=True)
     # 保存新论文到JSON文件
-    with open(f'./new papers/{datetime.now().strftime("%Y-%m-%d")}.json', 'w', encoding='utf-8') as f:
-        json.dump(new_papers, f, ensure_ascii=False, indent=4)
+    #with open(f'./new papers/{datetime.now().strftime("%Y-%m-%d")}.json', 'w', encoding='utf-8') as f:
+    #    json.dump(new_papers, f, ensure_ascii=False, indent=4)
         
     if updater.update_readme(new_papers):
         # 生成提交信息
