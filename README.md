@@ -1,1 +1,182 @@
-# scripts
+Generative Recommendation Papers
+================
+
+- [Generative Recommendation Papers](#generative-recommendation-papers)
+  - [Category](#category)
+    - [Survey](#survey)
+    - [Generative Recommendation](#generative-recommendation)
+
+
+Category
+----
+
+### Survey
+- `Arxiv(2025)`A Survey on Generative Recommendation: Data, Model, and Tasks **[[PDF](https://arxiv.org/abs/2510.27157)]**
+- `Arxiv(2025)`A Survey of Foundation Model-Powered Recommender Systems: From Feature-Based, Generative to Agentic Paradigms **[[PDF](https://arxiv.org/abs/2504.16420)]**
+- `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
+
+### Generative Recommendation
+- `AAAI(2026)`Inductive Generative Recommendation via Retrieval-based Speculation **[[PDF](https://arxiv.org/abs/2410.02939)]**
+- `KDD(2026)`Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2512.02474)]**
+- `WSDM(2026)`CAT-ID: Category-Tree Integrated Document Identifier Learning for Generative Retrieval In E-commerce **[[PDF](https://arxiv.org/abs/2511.01461)]**
+- `AAAI(2026)`From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization **[[PDF](https://arxiv.org/abs/2511.08006)]**
+- `KDD(2026)`ProEx: A Unified Framework Leveraging Large Language Model with Profile Extrapolation for Recommendation **[[PDF](https://arxiv.org/abs/2512.00679)]**
+- `KDD(2026)`Towards A Tri-View Diffusion Framework for Recommendation **[[PDF](https://arxiv.org/abs/2511.20122)]**
+- `AAAI(2026)`Multi-Aspect Cross-modal Quantization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2511.15122)]**
+- `WSDM(2026)`Continuous-time Discrete-space Diffusion Model for Recommendation **[[PDF](https://arxiv.org/abs/2511.12114)]**
+- `AAAI(2026)`Align^3GR: Unified Multi-Level Alignment for LLM-based Generative Recommendation **[[PDF](https://arxiv.org/abs/2511.11255)]**
+- `Arxiv(2025)`CEMG: Collaborative-Enhanced Multimodal Generative Recommendation **[[PDF](https://arxiv.org/abs/2512.21543)]**
+- `Arxiv(2025)`OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation **[[PDF](https://arxiv.org/abs/2512.22386)]**
+- `Arxiv(2025)`xGR: Efficient Generative Recommendation Serving at Scale **[[PDF](https://arxiv.org/abs/2512.11529)]**
+- `Arxiv(2025)`FAIR: Focused Attention Is All You Need for Generative Recommendation **[[PDF](https://arxiv.org/abs/2512.11254)]**
+- `Arxiv(2025)`OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition **[[PDF](https://arxiv.org/abs/2512.07424)]**
+- `Arxiv(2025)`Masked Diffusion for Generative Recommendation **[[PDF](https://arxiv.org/abs/2511.23021)]**
+- `Arxiv(2025)`CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2511.22707)]**
+- `Arxiv(2025)`Semantics Meet Signals: Dual Codebook Representationl Learning for Generative Recommendation **[[PDF](https://arxiv.org/abs/2511.20673)]**
+- `Arxiv(2025)`NEZHA: A Zero-sacrifice and Hyperspeed Decoding Architecture for Generative Recommendations **[[PDF](https://arxiv.org/abs/2511.18793)]**
+- `Arxiv(2025)`RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers **[[PDF](https://arxiv.org/abs/2511.16943)]**
+- `Arxiv(2025)`The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation **[[PDF](https://arxiv.org/abs/2511.16543)]**
+- `Arxiv(2025)`LLM-Aligned Geographic Item Tokenization for Local-Life Recommendation **[[PDF](https://arxiv.org/abs/2511.14221)]**
+- `Arxiv(2025)`MindRec: A Diffusion-driven Coarse-to-Fine Paradigm for Generative Recommendation **[[PDF](https://arxiv.org/abs/2511.12597)]**
+- `Arxiv(2025)`Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding **[[PDF](https://arxiv.org/abs/2511.10492)]**
+- `Arxiv(2025)`GPR: Towards a Generative Pre-trained One-Model Paradigm for Large-Scale Advertising Recommendation **[[PDF](https://arxiv.org/abs/2511.10138)]**
+- `Arxiv(2025)`LLaDA-Rec: Discrete Diffusion for Parallel Semantic ID Generation in Generative Recommendation **[[PDF](https://arxiv.org/abs/2511.06254)]**
+- `Arxiv(2025)`Generative Sequential Recommendation via Hierarchical Behavior Modeling **[[PDF](https://arxiv.org/abs/2511.03155)]**
+
+- `Arxiv(2025)`Continual Low-Rank Adapters for LLM-based Generative Recommender Systems **[[PDF](https://arxiv.org/abs/2510.25093)]**
+- `Arxiv(2025)`MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation **[[PDF](https://arxiv.org/abs/2510.24431)]**
+- `Arxiv(2025)`Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders **[[PDF](https://arxiv.org/abs/2510.22049)]**
+- `Arxiv(2025)`DiffGRM: Diffusion-based Generative Recommendation Model **[[PDF](https://arxiv.org/abs/2510.21805)]**
+- `Arxiv(2025)`Pctx: Tokenizing Personalized Context for Generative Recommendation **[[PDF](https://arxiv.org/abs/2510.21276)]**
+- `Arxiv(2025)`Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation **[[PDF](https://arxiv.org/abs/2510.21242)]**
+- `Arxiv(2025)`Rotate Both Ways: Time-and-Order RoPE for Generative Recommendation **[[PDF](https://arxiv.org/abs/2510.20455)]**
+- `Arxiv(2025)`The Layout Is the Model: On Action-Item Coupling in Generative Recommendation **[[PDF](https://arxiv.org/abs/2510.16804)]**
+- `Arxiv(2025)`Reinforced Preference Optimization for Recommendation **[[PDF](https://arxiv.org/abs/2510.12211)]**
+- `Arxiv(2025)`OneRec-Think: In-Text Reasoning for Generative Recommendation **[[PDF](https://arxiv.org/abs/2510.11639)]**
+- `Arxiv(2025)`Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model **[[PDF](https://arxiv.org/abs/2510.10127)]**
+- `Arxiv(2025)`PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations **[[PDF](https://arxiv.org/abs/2510.07784)]**
+- `Arxiv(2025)`LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing **[[PDF](https://arxiv.org/abs/2510.01622)]**
+- `Arxiv(2025)`Understanding Generative Recommendation with Semantic IDs from a Model-scaling View **[[PDF](https://arxiv.org/abs/2509.25522)]**
+- `Arxiv(2025)`From Past To Path: Masked History Learning for Next-Item Prediction in Generative Recommendation **[[PDF](https://arxiv.org/abs/2509.23649)]**
+- `Arxiv(2025)`FLAME: A Serving System Optimized for Large-Scale Generative Recommendation with Efficiency **[[PDF](https://arxiv.org/abs/2509.22681)]**
+- `Arxiv(2025)`SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation **[[PDF](https://arxiv.org/abs/2509.21777)]**
+- `Arxiv(2025)`IntSR: An Integrated Generative Framework for Search and Recommendation **[[PDF](https://arxiv.org/abs/2509.21179)]**
+- `Arxiv(2025)`Purely Semantic Indexing for LLM-based Generative Recommendation and Retrieval **[[PDF](https://arxiv.org/abs/2509.16446)]**
+- `EMNLP(2025)`Enhancing Time Awareness in Generative Recommendation **[[PDF](https://arxiv.org/abs/2509.13957)]**
+- `Arxiv(2025)`Sequential Data Augmentation for Generative Recommendation **[[PDF](https://arxiv.org/abs/2509.13648)]**
+- `Arxiv(2025)`Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation **[[PDF](https://arxiv.org/abs/2509.10468)]**
+- `Arxiv(2025)`UniSearch: Rethinking Search System with a Unified Generative Architecture **[[PDF](https://arxiv.org/abs/2509.06887)]**
+- `Arxiv(2025)`OneRec-V2 Technical Report **[[PDF](https://arxiv.org/abs/2508.20900)]**
+- `Arxiv(2025)`Spacetime-GR: A Spacetime-Aware Generative Model for Large Scale Online POI Recommendation **[[PDF](https://arxiv.org/abs/2508.16126)]**
+- `Arxiv(2025)`REG4Rec: Reasoning-Enhanced Generative Model for Large-Scale Recommendation Systems **[[PDF](https://arxiv.org/abs/2508.15308)]**
+- `Arxiv(2025)`Closing the Performance Gap in Generative Recommenders with Collaborative Tokenization and Efficient Modeling **[[PDF](https://arxiv.org/abs/2508.14910)]**
+- `Arxiv(2025)`OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service **[[PDF](https://arxiv.org/abs/2508.14646)]**
+- `CIKM(2025)`TBGRecall: A Generative Retrieval Model for E-commerce Recommendation Scenarios **[[PDF](https://arxiv.org/abs/2508.11977)]**
+- `Arxiv(2025)`FuXi-β: Towards a Lightweight and Fast Large-Scale Generative Recommendation Model **[[PDF](https://arxiv.org/abs/2508.10615)]**
+- `CIKM(2025)`DAS: Dual-Aligned Semantic IDs Empowered Industrial Recommender System **[[PDF](https://arxiv.org/abs/2508.10584)]**
+- `RecSys(2025)`Semantic IDs for Joint Generative Search and Recommendation **[[PDF](https://arxiv.org/abs/2508.10478)]**
+- `RecSys(2025)`Scaling Generative Recommendations with Context Parallelism on Hierarchical Sequential Transducers **[[PDF](https://arxiv.org/abs/2508.04711)]**
+- `Arxiv(2025)`HiD-VAE: Interpretable Generative Recommendation via Hierarchical and Disentangled Semantic IDs **[[PDF](https://arxiv.org/abs/2508.04618)]**
+- `CIKM(2025)`Generative Recommendation with Semantic IDs: A Practitioner's Handbook **[[PDF](https://arxiv.org/abs/2507.22224)]**
+- `Arxiv(2025)`TADT-CSA: Temporal Advantage Decision Transformer with Contrastive State Abstraction for Generative Recommendation **[[PDF](https://arxiv.org/abs/2507.20327)]**
+- `Arxiv(2025)`Scaling Recommender Transformers to One Billion Parameters **[[PDF](https://arxiv.org/abs/2507.15994)]**
+- `RecSys(2025)`GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization **[[PDF](https://arxiv.org/abs/2507.14758)]**
+- `Arxiv(2025)`Generative Multi-Target Cross-Domain Recommendation **[[PDF](https://arxiv.org/abs/2507.12871)]**
+- `Arxiv(2025)`GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models **[[PDF](https://arxiv.org/abs/2507.06507)]**
+- `Arxiv(2025)`Unconditional Diffusion for Generative Sequential Recommendation **[[PDF](https://arxiv.org/abs/2507.06121)]**
+- `Arxiv(2025)`GENPLUGIN: A Plug-and-Play Framework for Long-Tail Generative Recommendation with Exposure Bias Mitigation **[[PDF](https://arxiv.org/abs/2507.03568)]**
+- `KDD(2025)`EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens **[[PDF](https://arxiv.org/abs/2507.00715)]**
+- `Arxiv(2025)`Act-With-Think: Chunk Auto-Regressive Modeling for Generative Recommendation **[[PDF](https://arxiv.org/abs/2506.23643)]**
+- `Arxiv(2025)`A Simple Contrastive Framework Of Item Tokenization For Generative Recommendation **[[PDF](https://arxiv.org/abs/2506.16683)]**
+- `Arxiv(2025)`GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks **[[PDF](https://arxiv.org/abs/2506.16114)]**
+- `Arxiv(2025)`DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation **[[PDF](https://arxiv.org/abs/2506.15576)]**
+- `Arxiv(2025)`GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2506.01910)]**
+- `ACL(2025)`GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion **[[PDF](https://arxiv.org/abs/2506.01673)]**
+- `CIKM(2025)`MTGR: Industrial-Scale Generative Recommendation Framework in Meituan **[[PDF](https://arxiv.org/abs/2505.18654)]**
+- `Arxiv(2025)`EGA-V2: An End-to-end Generative Framework for Industrial Advertising **[[PDF](https://arxiv.org/abs/2505.17549)]**
+- `Arxiv(2025)`MTGenRec: An Efficient Distributed Training System for Generative Recommendation Models in Meituan **[[PDF](https://arxiv.org/abs/2505.12663)]**
+- `Arxiv(2025)`Avoid Recommending Out-of-Domain Items: Constrained Generative Recommendation with LLMs **[[PDF](https://arxiv.org/abs/2505.03336)]**
+- `Arxiv(2025)`Towards Large-scale Generative Ranking **[[PDF](https://arxiv.org/abs/2505.04180)]**
+- `SIGIR(2025)`Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model **[[PDF](https://arxiv.org/abs/2504.16454)]**
+- `CIKM(2025)`QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou **[[PDF](https://arxiv.org/abs/2411.11739)]**
+- `Arxiv(2025)`Diffusion Generative Recommendation with Continuous Tokens **[[PDF](https://arxiv.org/abs/2504.12007)]**
+- `KDD(2025)`HSTU-BLaIR: Lightweight Contrastive Text Embedding for Generative Recommender **[[PDF](https://arxiv.org/abs/2504.10545)]**
+- `SIGIR(2025)`Towards Distribution Matching between Collaborative and Language Spaces for Generative Recommendation **[[PDF](https://arxiv.org/abs/2504.07363)]**
+- `ICLR(2025)`Multimodal Quantitative Language for Generative Recommendation **[[PDF](https://arxiv.org/abs/2504.05314)]**
+- `Arxiv(2025)`Universal Item Tokenization for Transferable Generative Recommendation **[[PDF](https://arxiv.org/abs/2504.04405)]**
+- `Arxiv(2025)`Pre-training Generative Recommender with Multi-Identifier Item Tokenization **[[PDF](https://arxiv.org/abs/2504.04400)]**
+- `Arxiv(2025)`Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics **[[PDF](https://arxiv.org/abs/2503.23333)]**
+- `Arxiv(2025)`Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations **[[PDF](https://arxiv.org/abs/2503.02453)]**
+- `Arxiv(2025)`OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment **[[PDF](https://arxiv.org/abs/2502.18965)]**
+- `WWW(2025)`EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration **[[PDF](https://arxiv.org/abs/2502.14735)]**
+- `ICML(Spotlight)(2025)`ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation **[[PDF](https://arxiv.org/abs/2502.13581)]**
+- `SIGIR(2025)`Order-agnostic Identifier for Large Language Model-based Generative Recommendation **[[PDF](https://arxiv.org/abs/2502.10833)]**
+- `Arxiv(2025)`SessionRec: Next Session Prediction Paradigm For Generative Sequential Recommendation **[[PDF](https://arxiv.org/abs/2502.10157)]**
+- `TOIS(2025)`UNGER: Generative Recommendation with A Unified Code via Semantic and Collaborative Integration **[[PDF](https://arxiv.org/abs/2502.06269)]**
+- `WWW(2025)`Leveraging Memory Retrieval to Enhance LLM-based Generative Recommendation **[[PDF](https://arxiv.org/abs/2412.17593)]**
+- `ICLR(2025)`Efficient Inference for Large Language Model-based Generative Recommendation **[[PDF](https://arxiv.org/abs/2410.05165)]**
+- `TMLR(2025)`Preference Discerning with LLM-Enhanced Generative Retrieval **[[PDF](https://arxiv.org/abs/2412.08604)]**
+- `Arxiv(2025)`Learning Multi-Aspect Item Palette: A Semantic Tokenization Framework for Generative Recommendation **[[PDF](https://arxiv.org/abs/2409.07276)]**
+- `KDD(2025)`Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences **[[PDF](https://arxiv.org/abs/2411.11240)]**
+- `SIGIR(2025)`Generative Recommender with End-to-End Learnable Item Tokenization **[[PDF](https://arxiv.org/abs/2409.05546)]**
+- `RecSys(2025)`How Fair is Your Diffusion Recommender Model? **[[PDF](https://arxiv.org/abs/2409.04339)]**
+- `WSDM(2025)`DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems **[[PDF](https://arxiv.org/abs/2408.12470)]**
+- `Arxiv(2025)`MVIGER: Multi-View Variational Integration of Complementary Knowledge for Generative Recommender **[[PDF](https://arxiv.org/abs/2408.08686)]**
+- `Arxiv(2025)`PeaPOD: Personalized Prompt Distillation for Generative Recommendation **[[PDF](https://arxiv.org/abs/2407.05033)]**
+- `IEEE TKDE(2025)`TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation **[[PDF](https://arxiv.org/abs/2406.10450)]**
+- `TMLR(2025)`Unifying Generative and Dense Retrieval for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2411.18814)]**
+- `NAACL(2025)`A Federated Framework for LLM-based Recommendation **[[PDF](https://arxiv.org/abs/2402.09959)]**
+- `Arxiv(2025)`MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation **[[PDF](https://arxiv.org/abs/2510.25622)]**
+- `CIKM(2025)`Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs **[[PDF](https://arxiv.org/abs/2509.02017)]**
+- `Arxiv(2025)`MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation **[[PDF](https://arxiv.org/abs/2508.15281)]**
+- `RecSys(2025)`Semantic IDs for Music Recommendation **[[PDF](https://arxiv.org/abs/2507.18800)]**
+- `Arxiv(2025)`SIDE: Semantic ID Embedding for effective learning from sequences **[[PDF](https://arxiv.org/abs/2506.16698)]**
+- `RecSys(2025)`Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID **[[PDF](https://arxiv.org/abs/2504.02137)]**
+- `Arxiv(2025)`BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation **[[PDF](https://arxiv.org/abs/2504.06636)]**
+- `Arxiv(2025)`Representation Quantization for Collaborative Filtering Augmentation **[[PDF](https://arxiv.org/abs/2508.11194)]**
+- `CIKM(2025)`Progressive Semantic Residual Quantization for Multimodal-Joint Interest Modeling in Music Recommendation **[[PDF](https://arxiv.org/abs/2508.20359)]**
+- `CIKM(2025)`Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs **[[PDF](https://arxiv.org/abs/2509.02017)]**
+
+- `Arxiv(2025)`DualGR: Generative Retrieval with Long and Short-Term Interests Modeling **[[PDF](https://arxiv.org/abs/2511.12518)]**
+
+- `Arxiv(2025)`The Best of the Two Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2512.10388)]**
+- `Arxiv(2025)`HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment **[[PDF](https://arxiv.org/abs/2512.24787)]**
+- `Arxiv(2025)`MMSRARec: Summarization and Retrieval Augumented Sequential Recommendation Based on Multimodal Large Language Model **[[PDF](https://arxiv.org/abs/2512.20916)]**
+- `Arxiv(2025)`EncodeRec: An Embedding Backbone for Recommendation Systems **[[PDF](https://arxiv.org/abs/2601.10837)]**
+- `Arxiv(2025)`OpenOneRec Technical Report **[[PDF](https://arxiv.org/abs/2512.24762)]**
+- `Arxiv(2025)`OneRec Technical Report **[[PDF](https://arxiv.org/abs/2506.13695)]**
+- `Arxiv(2024)`Enhancing Item Tokenization for Generative Recommendation through Self-Improvement **[[PDF](https://arxiv.org/abs/2412.17171)]**
+- `CIKM(2024)`Learnable Item Tokenization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2405.07314)]**
+- `Arxiv(2024)`Scaling New Frontiers: Insights into Large Recommendation Models **[[PDF](https://arxiv.org/abs/2412.00714)]**
+
+- `Arxiv(2024)`Causality-Enhanced Behavior Sequence Modeling in LLMs for Personalized Recommendation **[[PDF](https://arxiv.org/abs/2410.22809)]**
+- `RecSys(2024)`Bridging Search and Recommendation in Generative Retrieval: Does One Task Help the Other? **[[PDF](https://arxiv.org/abs/2410.16823)]**
+- `Arxiv(2024)`Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2410.13428)]**
+- `Arxiv(2024)`Unleash LLMs Potential for Recommendation by Coordinating Twin-Tower Dynamic Semantic Token Generator **[[PDF](https://arxiv.org/abs/2409.09253)]**
+- `Arxiv(2024)`GenRec: Generative Sequential Recommendation with Large Language Models **[[PDF](https://arxiv.org/abs/2407.21191)]**
+- `KDD(2024)`EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration **[[PDF](https://arxiv.org/abs/2406.14017)]**
+- `ACL(2024)`Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers **[[PDF](https://arxiv.org/abs/2406.05255)]**
+- `CIKM(2024)`Multi-Behavior Generative Recommendation **[[PDF](https://arxiv.org/abs/2405.16871)]**
+- `RecSys(2024)`CoST: Contrastive Quantization based Semantic Tokenization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2404.14774)]**
+- `SIGIR(2024)`IDGenRec: LLM-RecSys Alignment with Textual ID Learning **[[PDF](https://arxiv.org/abs/2403.19021)]**
+- `ICLR(2024)`Towards Unified Multi-Modal Personalization: Large Vision-Language Models for Generative Recommendation and Beyond **[[PDF](https://arxiv.org/abs/2403.10667)]**
+- `GenRec@WWWW(2024)`Aligning GPTRec with Beyond-Accuracy Goals with Reinforcement Learning **[[PDF](https://arxiv.org/abs/2403.04875)]**
+- `ICML(2024)`Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations **[[PDF](https://arxiv.org/abs/2402.17152)]**
+- `WWW Companion(2024)`The 2nd Workshop on Recommendation with Generative Models **[[PDF](https://arxiv.org/abs/2403.04399)]**
+- `WWW(2024)`Collaborative Large Language Model for Recommender Systems **[[PDF](https://arxiv.org/abs/2311.01343)]**
+
+- `SIGIR(2024)`OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems **[[PDF](https://arxiv.org/abs/2306.11134)]**
+- `Arxiv(2024)`Generative Recommendation: Towards Next-generation Recommender Paradigm **[[PDF](https://arxiv.org/abs/2304.03516)]**
+- `AAAI(2024)`Semantic Convergence: Harmonizing Recommender Systems via Two-Stage Alignment and Behavioral Semantic Tokenization **[[PDF](https://arxiv.org/abs/2412.13771)]**
+- `RecSys(2024)`CALRec: Contrastive Alignment of Generative LLMs for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2405.02429)]**
+- `Arxiv(2024)`ULMRec: User-centric Large Language Model for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2412.05543)]**
+- `ICDE(2024)`Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation **[[PDF](https://arxiv.org/abs/2311.09049)]**
+- `KDD(2024)`Generating Long Semantic IDs in Parallel for Recommendation **[[PDF](https://arxiv.org/abs/2506.05781)]**
+- `ResSys(2024)`Better Generalization with Semantic IDs: A Case Study in Ranking for Recommendations **[[PDF](https://arxiv.org/abs/2306.08121)]**
+- `ICML(2024)`Language Models As Semantic Indexers **[[PDF](https://arxiv.org/abs/2310.07815)]**
+- `Arxiv(2024)`Towards Scalable Semantic Representation for Recommendation **[[PDF](https://arxiv.org/abs/2410.09560)]**
+- `NIPS(2023)`Recommender Systems with Generative Retrieval **[[PDF](https://arxiv.org/abs/2305.05065)]**
+- `Arxiv(2023)`LightLM: A Lightweight Deep and Narrow Language Model for Generative Recommendation **[[PDF](https://arxiv.org/abs/2310.17488)]**
+- `SIGIR(2023)`Generative Sequential Recommendation with GPTRec **[[PDF](https://arxiv.org/abs/2306.11114)]**
+- `RecSys(2023)`Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation **[[PDF](https://arxiv.org/abs/2305.07609)]**
+- `SIGIR-AP(2023)`How to Index Item IDs for Recommendation Foundation Models **[[PDF](https://arxiv.org/abs/2305.06569)]**
