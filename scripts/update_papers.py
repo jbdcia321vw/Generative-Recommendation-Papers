@@ -13,7 +13,7 @@ class PaperUpdater:
         
     def load_keywords(self) -> List[str]:
         """加载查询关键词"""
-        with open('keywords.txt', 'r') as f:
+        with open('scripts/keywords.txt', 'r') as f:
             return [line.strip() for line in f if line.strip()]
     
     def load_existing_papers(self) -> None:
@@ -135,7 +135,7 @@ class PaperUpdater:
         return True
 
 def main():
-    updater = PaperUpdater(paper_path='../README.md')
+    updater = PaperUpdater(paper_path='README.md')
     updater.load_existing_papers()
 
     new_papers = updater.query_new_papers()
