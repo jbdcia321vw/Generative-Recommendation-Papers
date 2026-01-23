@@ -2,36 +2,46 @@ name: Daily Paper Update
 
 on:
   schedule:
-    # 每天UTC时间早上6点运行（北京时间下午2点）
-    - cron: '0 6 * * *'
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 6 * * *'  # 每天UTC 06:00（北京 14:00）
+  workflow_dispatch:     # 允许手动触发
+
+permissions:
+  contents: write        # 明确给 contents 写权限以便 push
 
 jobs:
   update-papers:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        fetch-depth: 0
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+          fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
 
-    - name: Install dependencies
-      run: pip install arxiv-client
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install arxiv-client
 
-    - name: Run paper update script
-      run: python scripts/update_papers.py
+      - name: Run paper update script
+        run: |
+          python scripts/update_papers.py
 
-    - name: Commit and push if changed
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add README.md
-        git diff --staged --quiet || git commit -m "Auto-update: Add new papers - $(date +'%Y-%m-%d')"
-        git push
+      - name: Show git status and staged changes (debug)
+        run: |
+          git status --porcelain
+          git --no-pager diff --staged || true
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || (git commit -m "Auto-update: Add new papers - $(date +'%Y-%m-%d')" && git push)
