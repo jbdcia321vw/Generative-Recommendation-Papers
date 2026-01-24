@@ -5,7 +5,7 @@ import os
 from datetime import datetime, timedelta
 from typing import List, Dict, Tuple
 from zai import ZhipuAiClient
-os.environ["ZHIPUAI_API_KEY"] = "8b555764fb534beb982dab1555bf67b1.8IpE2PTCla7UFncS"
+
 class PaperUpdater:
     def __init__(self, paper_path):
         self.existing_papers = set()
@@ -29,7 +29,7 @@ class PaperUpdater:
 
     def get_paper_classify_agent(self):
         """初始化GLM API客户端"""
-        return ZhipuAiClient(api_key=os.getenv("ZHIPUAI_API_KEY"))  # 请替换为您的API Key
+        return ZhipuAiClient(api_key=os.environ.get("ZHIPUAI_API_KEY"))  # 请替换为您的API Key
 
     def classify_paper_with_llm(self, paper_info: Dict) -> Tuple[bool, str, str]:
         """使用GLM API对论文进行分类"""
