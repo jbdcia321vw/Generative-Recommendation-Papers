@@ -29,7 +29,10 @@ class PaperUpdater:
 
     def get_paper_classify_agent(self):
         """初始化GLM API客户端"""
-        print(os.environ.get("ZHIPUAI_API_KEY"))
+        key = os.environ.get("ZHIPUAI_API_KEY")
+        if not key:
+            print("API key Missing")
+            exit(0)
         return ZhipuAiClient(api_key=os.environ.get("ZHIPUAI_API_KEY"))  # 请替换为您的API Key
         
 
