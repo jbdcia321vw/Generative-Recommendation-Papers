@@ -1,3 +1,6 @@
 generative recommendation
 generative sequential recommendation
 semantic ID
+LLM recommendation
+large language model recommendation
+foundation model recommendation
