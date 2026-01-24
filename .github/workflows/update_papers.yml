@@ -29,6 +29,7 @@ jobs:
         run: |
           pip install arxiv
           pip install zai-sdk
+          pip install sniffio
 
       - name: Run paper update script
         run: |
