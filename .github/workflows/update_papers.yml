@@ -32,6 +32,8 @@ jobs:
           pip install sniffio
 
       - name: Run paper update script
+        env:
+          ZHIPUAI_API_KEY: ${{secrets.ZHIPUAI_API_KEY}}
         run: |
           python scripts/update_papers.py
 
