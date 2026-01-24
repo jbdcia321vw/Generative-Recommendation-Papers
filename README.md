@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`CoNRec: Context-Discerning Negative Recommendation with LLMs **[[PDF](https://arxiv.org/abs/2601.15721)]**
 - `NeurIPS(2025)`Do LLMs Benefit from User and Item Embeddings in Recommendation Tasks? **[[PDF](https://arxiv.org/abs/2601.04690)]**
 - `Arxiv(2026)`Efficient Sequential Recommendation for Long Term User Interest Via Personalization **[[PDF](https://arxiv.org/abs/2601.03479)]**
 - `Arxiv(2026)`MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging **[[PDF](https://arxiv.org/abs/2601.15930)]**
