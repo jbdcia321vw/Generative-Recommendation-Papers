@@ -24,7 +24,7 @@ class PaperUpdater:
 
     def load_keywords(self) -> List[str]:
         """加载查询关键词"""
-        with open('./keywords.txt', 'r') as f:
+        with open('scripts/keywords.txt', 'r') as f:
             return [line.strip() for line in f if line.strip()]
 
     def get_paper_classify_agent(self):
@@ -221,5 +221,5 @@ class PaperUpdater:
             print("无需更新")
 
 if __name__ == "__main__":
-    updater = PaperUpdater(paper_path='../README.md')
+    updater = PaperUpdater(paper_path='README.md')
     updater.main()
