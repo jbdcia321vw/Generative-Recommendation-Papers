@@ -29,7 +29,9 @@ class PaperUpdater:
 
     def get_paper_classify_agent(self):
         """初始化GLM API客户端"""
+        print(os.environ.get("ZHIPUAI_API_KEY"))
         return ZhipuAiClient(api_key=os.environ.get("ZHIPUAI_API_KEY"))  # 请替换为您的API Key
+        
 
     def classify_paper_with_llm(self, paper_info: Dict) -> Tuple[bool, str, str]:
         """使用GLM API对论文进行分类"""
@@ -72,7 +74,7 @@ class PaperUpdater:
             
         except Exception as e:
             print(f"GLM API调用失败: {e}")
-            return False, "Unknown", "Unknown"
+            return False
 
     def load_existing_papers(self) -> None:
         """加载已有论文信息用于去重"""
