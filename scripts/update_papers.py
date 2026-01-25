@@ -12,15 +12,6 @@ class PaperUpdater:
         self.keywords = self.load_keywords()
         self.paper_path = paper_path
         self.client = self.get_paper_classify_agent()
-        
-        # 定义分类体系
-        self.category_hierarchy = {
-            "Survey": ["General Survey", "Technical Survey", "Application Survey"],
-            "Semantic_ID": ["Text-based Semantic ID", "Multimodal Semantic ID", "Structured Term ID"],
-            "Model_Architecture": ["LLM-based", "Diffusion-based", "Hybrid Models"],
-            "Training_Technique": ["Reward Models", "Model Merging", "Alignment Techniques"],
-            "Application": ["Music Recommendation", "Cross-domain", "Temporal-aware"]
-        }
 
     def load_keywords(self) -> List[str]:
         """加载查询关键词"""
@@ -43,7 +34,7 @@ class PaperUpdater:
  
 为了更准确地判断论文是否属于“生成式推荐”领域，请参考以下背景知识：
 生成式推荐是一种新兴的推荐范式，它利用生成式AI技术（如大语言模型LLM、扩散模型Diffusion Models等）来直接生成推荐项或用户交互序列，而非仅仅是对现有候选集进行排序。
-请特别以2023年Google发布的Tiger模型作为该领域的典型参考案例。Tiger模型展示了如何将生成式任务应用于推荐系统，并提出了使用semantic ID（语义ID）表示item的思想体现了生成式推荐在处理序列推荐和用户兴趣建模方面的独特优势。
+请特别以2023年Google发布的Tiger模型作为该领域的典型参考案例。Tiger模型展示了如何将生成式任务应用于推荐系统，并提出了使用semantic ID（语义ID）表示item的思想。体现了生成式推荐在处理序列推荐和用户兴趣建模方面的独特优势。
 如果论文探讨了利用生成模型（尤其是类似Tiger的架构或思路）来生成推荐结果，请将其归类为生成式推荐领域。
 """
         prompt = f"""
