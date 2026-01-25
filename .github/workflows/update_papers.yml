@@ -2,7 +2,7 @@ name: Daily Paper Update
 
 on:
   schedule:
-    - cron: '16 9 * * *'  # 每天UTC 06:00（北京 14:00）
+    - cron: '0 6 * * *'  
   workflow_dispatch:     # 允许手动触发
 
 permissions:
