@@ -16,6 +16,12 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`S$^2$GR: Stepwise Semantic-Guided Reasoning in Latent Space for Generative Recommendation **[[PDF](https://arxiv.org/abs/2601.18664)]**
+- `WWW(2026)`Token-level Collaborative Alignment for LLM-based Generative Recommendation **[[PDF](https://arxiv.org/abs/2601.18457)]**
+- `Arxiv(2026)`Token-Weighted Multi-Target Learning for Generative Recommenders with Curriculum Learning **[[PDF](https://arxiv.org/abs/2601.17787)]**
+- `Arxiv(2026)`UniGRec: Unified Generative Recommendation with Soft Identifiers for End-to-End Optimization **[[PDF](https://arxiv.org/abs/2601.17438)]**
+- `Arxiv(2026)`PRISM: Purified Representation and Integrated Semantic Modeling for Generative Sequential Recommendation **[[PDF](https://arxiv.org/abs/2601.16556)]**
+- `Arxiv(2026)`Generative Chain of Behavior for User Trajectory Prediction **[[PDF](https://arxiv.org/abs/2601.18213)]**
 - `Arxiv(2026)`CoNRec: Context-Discerning Negative Recommendation with LLMs **[[PDF](https://arxiv.org/abs/2601.15721)]**
 - `NeurIPS(2025)`Do LLMs Benefit from User and Item Embeddings in Recommendation Tasks? **[[PDF](https://arxiv.org/abs/2601.04690)]**
 - `Arxiv(2026)`Efficient Sequential Recommendation for Long Term User Interest Via Personalization **[[PDF](https://arxiv.org/abs/2601.03479)]**
