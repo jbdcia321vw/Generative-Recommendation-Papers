@@ -4,3 +4,4 @@ semantic ID
 LLM recommendation
 large language model recommendation
 foundation model recommendation
+generative retrieval
