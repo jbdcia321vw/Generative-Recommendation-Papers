@@ -97,7 +97,9 @@ class PaperUpdater:
                     if result.published.date() < (datetime.now() - timedelta(days=3*365)).date():
                         continue
                     
-                    arxiv_id = result.entry_id.split('/')[-1].replace('v1', '').replace('v2', '')
+                    arxiv_id = result.entry_id.split('/')[-1]
+                    for i in range(1,10):
+                        arxiv_id = arxiv_id.replace(f'v{i}','')
                     if arxiv_id in self.existing_papers:
                         continue
 
@@ -136,8 +138,9 @@ class PaperUpdater:
         
         if len(venue.split(' ')) > 1:
             venue,year = venue.split(' ')
-        abs_url = paper['pdf_url'].replace('pdf','abs').replace('v1', '').replace('v2', '')
-        
+        abs_url = paper['pdf_url'].replace('pdf','abs')
+        for i in range(1,10):
+            abs_url = abs_url.replace(f'v{i}','')
         entry = f"- `{venue}({year})`{paper['title']} **[[PDF]({abs_url})]**\n"
         
         return entry
