@@ -94,7 +94,7 @@ class PaperUpdater:
             try:
                 for result in client.results(search):
                     # 日期过滤：只看30天内的
-                    if result.published.date() < (datetime.now() - timedelta(days=30)).date():
+                    if result.published.date() < (datetime.now() - timedelta(days=3*365)).date():
                         continue
                     
                     arxiv_id = result.entry_id.split('/')[-1].replace('v1', '').replace('v2', '')
