@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Generative Recall, Dense Reranking: Learning Multi-View Semantic IDs for Efficient Text-to-Video Retrieval **[[PDF](https://arxiv.org/abs/2601.21193)]**
 - `Arxiv(2026)`OneMall: One Model, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce **[[PDF](https://arxiv.org/abs/2601.21770)]**
 - `Arxiv(2026)`SAGE: Sequence-level Adaptive Gradient Evolution for Generative Recommendation **[[PDF](https://arxiv.org/abs/2601.21452)]**
 - `Arxiv(2026)`Differentiable Semantic ID for Generative Recommendation **[[PDF](https://arxiv.org/abs/2601.19711)]**
