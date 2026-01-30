@@ -38,7 +38,7 @@ Category
 - `Arxiv(2026)`Reasoning Over Space: Enabling Geographic Reasoning for LLM-Based Generative Next POI Recommendation **[[PDF](https://arxiv.org/abs/2601.04562)]**
 - `Arxiv(2026)`RelayGR: Scaling Long-Sequence Generative Recommendation via Cross-Stage Relay-Race Inference **[[PDF](https://arxiv.org/abs/2601.01712)]**
 - `AAAI(2026)`Inductive Generative Recommendation via Retrieval-based Speculation **[[PDF](https://arxiv.org/abs/2410.02939)]**
-- `KDD(2026)`Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2512.02474)]**
+- `Arxiv(2026)`Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2512.02474)]**
 - `WSDM(2026)`CAT-ID: Category-Tree Integrated Document Identifier Learning for Generative Retrieval In E-commerce **[[PDF](https://arxiv.org/abs/2511.01461)]**
 - `AAAI(2026)`From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization **[[PDF](https://arxiv.org/abs/2511.08006)]**
 - `KDD(2026)`ProEx: A Unified Framework Leveraging Large Language Model with Profile Extrapolation for Recommendation **[[PDF](https://arxiv.org/abs/2512.00679)]**
