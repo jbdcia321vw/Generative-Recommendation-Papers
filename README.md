@@ -16,6 +16,8 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Multimodal Generative Recommendation for Fusing Semantic and Collaborative Signals **[[PDF](https://arxiv.org/abs/2602.03713)]**
+- `WWW(2026)`Bringing Reasoning to Generative Recommendation Through the Lens of Cascaded Ranking **[[PDF](https://arxiv.org/abs/2602.03692)]**
 - `Arxiv(2026)`Rethinking Generative Recommender Tokenizer: Recsys-Native Encoding and Semantic Quantization Beyond LLMs **[[PDF](https://arxiv.org/abs/2602.02338)]**
 - `Arxiv(2026)`Generative Recall, Dense Reranking: Learning Multi-View Semantic IDs for Efficient Text-to-Video Retrieval **[[PDF](https://arxiv.org/abs/2601.21193)]**
 - `Arxiv(2026)`OneMall: One Model, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce **[[PDF](https://arxiv.org/abs/2601.21770)]**
