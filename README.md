@@ -16,6 +16,8 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `WWW(2026)`DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan **[[PDF](https://arxiv.org/abs/2602.04460)]**
+- `Arxiv(2026)`Uncertainty and Fairness Awareness in LLM-Based Recommendation Systems **[[PDF](https://arxiv.org/abs/2602.02582)]**
 - `Arxiv(2026)`Multimodal Generative Recommendation for Fusing Semantic and Collaborative Signals **[[PDF](https://arxiv.org/abs/2602.03713)]**
 - `WWW(2026)`Bringing Reasoning to Generative Recommendation Through the Lens of Cascaded Ranking **[[PDF](https://arxiv.org/abs/2602.03692)]**
 - `Arxiv(2026)`Rethinking Generative Recommender Tokenizer: Recsys-Native Encoding and Semantic Quantization Beyond LLMs **[[PDF](https://arxiv.org/abs/2602.02338)]**
