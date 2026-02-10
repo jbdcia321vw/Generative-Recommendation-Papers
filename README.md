@@ -16,6 +16,11 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`OneLive: Dynamically Unified Generative Framework for Live-Streaming Recommendation **[[PDF](https://arxiv.org/abs/2602.08612)]**
+- `Arxiv(2026)`PIT: A Dynamic Personalized Item Tokenizer for End-to-End Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.08530)]**
+- `Arxiv(2026)`SimGR: Escaping the Pitfalls of Generative Decoding in LLM-based Recommendation **[[PDF](https://arxiv.org/abs/2602.07847)]**
+- `Arxiv(2026)`Gender and Race Bias in Consumer Product Recommendations by Large Language Models **[[PDF](https://arxiv.org/abs/2602.08124)]**
+- `Arxiv(2026)`RankGR: Rank-Enhanced Generative Retrieval with Listwise Direct Preference Optimization in Recommendation **[[PDF](https://arxiv.org/abs/2602.08575)]**
 - `Arxiv(2026)`Multimodal Generative Retrieval Model with Staged Pretraining for Food Delivery on Meituan **[[PDF](https://arxiv.org/abs/2602.06654)]**
 - `Arxiv(2026)`GLASS: A Generative Recommender for Long-sequence Modeling via SID-Tier and Semantic Search **[[PDF](https://arxiv.org/abs/2602.05663)]**
 - `WWW(2026)`DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan **[[PDF](https://arxiv.org/abs/2602.04460)]**
