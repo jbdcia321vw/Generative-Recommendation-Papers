@@ -16,6 +16,11 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.10699)]**
+- `Arxiv(2026)`S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage **[[PDF](https://arxiv.org/abs/2602.10606)]**
+- `Arxiv(2026)`End-to-End Semantic ID Generation for Generative Advertisement Recommendation **[[PDF](https://arxiv.org/abs/2602.10445)]**
+- `Arxiv(2026)`Breaking the Curse of Repulsion: Optimistic Distributionally Robust Policy Optimization for Off-Policy Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.10430)]**
+- `Arxiv(2026)`GeoGR: A Generative Retrieval Framework for Spatio-Temporal Aware POI Recommendation **[[PDF](https://arxiv.org/abs/2602.10411)]**
 - `Arxiv(2026)`OneLive: Dynamically Unified Generative Framework for Live-Streaming Recommendation **[[PDF](https://arxiv.org/abs/2602.08612)]**
 - `Arxiv(2026)`PIT: A Dynamic Personalized Item Tokenizer for End-to-End Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.08530)]**
 - `Arxiv(2026)`SimGR: Escaping the Pitfalls of Generative Decoding in LLM-based Recommendation **[[PDF](https://arxiv.org/abs/2602.07847)]**
