@@ -16,6 +16,8 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Uncertainty-aware Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.11719)]**
+- `Arxiv(2026)`Recurrent Preference Memory for Efficient Long-Sequence Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.11605)]**
 - `Arxiv(2026)`Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.10699)]**
 - `Arxiv(2026)`S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage **[[PDF](https://arxiv.org/abs/2602.10606)]**
 - `Arxiv(2026)`End-to-End Semantic ID Generation for Generative Advertisement Recommendation **[[PDF](https://arxiv.org/abs/2602.10445)]**
