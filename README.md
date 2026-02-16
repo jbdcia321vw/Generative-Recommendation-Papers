@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Awakening Dormant Users: Generative Recommendation with Counterfactual Functional Role Reasoning **[[PDF](https://arxiv.org/abs/2602.13134)]**
 - `Arxiv(2026)`Generative Reasoning Re-ranker **[[PDF](https://arxiv.org/abs/2602.07774)]**
 - `Arxiv(2026)`Uncertainty-aware Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.11719)]**
 - `Arxiv(2026)`Recurrent Preference Memory for Efficient Long-Sequence Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.11605)]**
