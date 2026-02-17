@@ -16,6 +16,9 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`GEMs: Breaking the Long-Sequence Barrier in Generative Recommendation with a Multi-Stream Decoder **[[PDF](https://arxiv.org/abs/2602.13631)]**
+- `Arxiv(2026)`Climber-Pilot: A Non-Myopic Generative Recommendation Model Towards Better Instruction-Following **[[PDF](https://arxiv.org/abs/2602.13581)]**
+- `Arxiv(2026)`Unleash the Potential of Long Semantic IDs for Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.13573)]**
 - `Arxiv(2026)`Awakening Dormant Users: Generative Recommendation with Counterfactual Functional Role Reasoning **[[PDF](https://arxiv.org/abs/2602.13134)]**
 - `Arxiv(2026)`Generative Reasoning Re-ranker **[[PDF](https://arxiv.org/abs/2602.07774)]**
 - `Arxiv(2026)`Uncertainty-aware Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.11719)]**
