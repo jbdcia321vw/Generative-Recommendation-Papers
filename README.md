@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Trie-Aware Transformers for Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.21677)]**
 - `Arxiv(2026)`IntRR: A Framework for Integrating SID Redistribution and Length Reduction **[[PDF](https://arxiv.org/abs/2602.20704)]**
 - `Arxiv(2026)`From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production **[[PDF](https://arxiv.org/abs/2602.20558)]**
 - `Arxiv(2026)`DeepInterestGR: Mining Deep Multi-Interest Using Multi-Modal LLMs for Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.18907)]**
