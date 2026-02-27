@@ -16,6 +16,10 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress **[[PDF](https://arxiv.org/abs/2602.22913)]**
+- `Arxiv(2026)`Generative Recommendation for Large-Scale Advertising **[[PDF](https://arxiv.org/abs/2602.22732)]**
+- `Arxiv(2026)`Fine-grained Semantics Integration for Large Language Model-based Recommendation **[[PDF](https://arxiv.org/abs/2602.22632)]**
+- `Arxiv(2026)`Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators **[[PDF](https://arxiv.org/abs/2602.22647)]**
 - `Arxiv(2026)`Trie-Aware Transformers for Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.21677)]**
 - `Arxiv(2026)`IntRR: A Framework for Integrating SID Redistribution and Length Reduction **[[PDF](https://arxiv.org/abs/2602.20704)]**
 - `Arxiv(2026)`From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production **[[PDF](https://arxiv.org/abs/2602.20558)]**
