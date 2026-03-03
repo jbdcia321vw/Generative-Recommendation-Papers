@@ -16,6 +16,8 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `WWW(2026)`Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations **[[PDF](https://arxiv.org/abs/2603.00980)]**
+- `Arxiv(2026)`SODA: Semantic-Oriented Distributional Alignment for Generative Recommendation **[[PDF](https://arxiv.org/abs/2603.00700)]**
 - `Arxiv(2026)`Learning to Reflect and Correct: Towards Better Decoding Trajectories for Large-Scale Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.23639)]**
 - `Arxiv(2026)`U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative Recommendation **[[PDF](https://arxiv.org/abs/2602.23400)]**
 - `Arxiv(2026)`Towards Efficient and Generalizable Retrieval: Adaptive Semantic Quantization and Residual Knowledge Transfer **[[PDF](https://arxiv.org/abs/2602.23978)]**
