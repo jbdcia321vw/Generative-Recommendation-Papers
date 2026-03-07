@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning for Recommendation at Industrial Scale **[[PDF](https://arxiv.org/abs/2603.00632)]**
 - `Arxiv(2026)`APAO: Adaptive Prefix-Aware Optimization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2603.02730)]**
 - `Arxiv(2026)`MuonRec: Shifting the Optimizer Paradigm Beyond Adam in Scalable Generative Recommendation **[[PDF](https://arxiv.org/abs/2603.00416)]**
 - `WWW(2026)`Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations **[[PDF](https://arxiv.org/abs/2603.00980)]**
