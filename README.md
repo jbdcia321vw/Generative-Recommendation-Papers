@@ -16,6 +16,8 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Bringing Model Editing to Generative Recommendation in Cold-Start Scenarios **[[PDF](https://arxiv.org/abs/2603.14259)]**
+- `WWW(2026)`Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs **[[PDF](https://arxiv.org/abs/2603.13934)]**
 - `Arxiv(2026)`FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning **[[PDF](https://arxiv.org/abs/2603.11901)]**
 - `Arxiv(2026)`Quantized Inference for OneRec-V2 **[[PDF](https://arxiv.org/abs/2603.11486)]**
 - `Arxiv(2026)`Differentiable Geometric Indexing for End-to-End Generative Retrieval **[[PDF](https://arxiv.org/abs/2603.10409)]**
