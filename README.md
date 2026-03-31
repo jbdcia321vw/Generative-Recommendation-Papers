@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`RCLRec: Reverse Curriculum Learning for Modeling Sparse Conversions in Generative Recommendation **[[PDF](https://arxiv.org/abs/2603.28124)]**
 - `Arxiv(2026)`OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework **[[PDF](https://arxiv.org/abs/2603.24422)]**
 - `Arxiv(2026)`Reasoning over Semantic IDs Enhances Generative Recommendation **[[PDF](https://arxiv.org/abs/2603.23183)]**
 - `Arxiv(2026)`Causal Direct Preference Optimization for Distributionally Robust Generative Recommendation **[[PDF](https://arxiv.org/abs/2603.22335)]**
