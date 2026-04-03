@@ -16,6 +16,9 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation **[[PDF](https://arxiv.org/abs/2604.02324)]**
+- `Arxiv(2026)`Cold-Starts in Generative Recommendation: A Reproducibility Study **[[PDF](https://arxiv.org/abs/2603.29845)]**
+- `Arxiv(2026)`Drift-Aware Continual Tokenization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2603.29705)]**
 - `Arxiv(2026)`RCLRec: Reverse Curriculum Learning for Modeling Sparse Conversions in Generative Recommendation **[[PDF](https://arxiv.org/abs/2603.28124)]**
 - `Arxiv(2026)`OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework **[[PDF](https://arxiv.org/abs/2603.24422)]**
 - `Arxiv(2026)`Reasoning over Semantic IDs Enhances Generative Recommendation **[[PDF](https://arxiv.org/abs/2603.23183)]**
