@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `SIGIR(2026)`FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2604.04427)]**
 - `Arxiv(2026)`MBGR: Multi-Business Prediction for Generative Recommendation at Meituan **[[PDF](https://arxiv.org/abs/2604.02684)]**
 - `Arxiv(2026)`Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation **[[PDF](https://arxiv.org/abs/2604.02324)]**
 - `Arxiv(2026)`Cold-Starts in Generative Recommendation: A Reproducibility Study **[[PDF](https://arxiv.org/abs/2603.29845)]**
