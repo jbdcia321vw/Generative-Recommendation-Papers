@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `ICLR(2026)`Efficient Dataset Selection for Continual Adaptation of Generative Recommenders **[[PDF](https://arxiv.org/abs/2604.07739)]**
 - `Arxiv(2026)`Semantic Trimming and Auxiliary Multi-step Prediction for Generative Recommendation **[[PDF](https://arxiv.org/abs/2604.05329)]**
 - `Arxiv(2026)`CRAB: Codebook Rebalancing for Bias Mitigation in Generative Recommendation **[[PDF](https://arxiv.org/abs/2604.05113)]**
 - `Arxiv(2026)`Tencent Advertising Algorithm Challenge 2025: All-Modality Generative Recommendation **[[PDF](https://arxiv.org/abs/2604.04976)]**
