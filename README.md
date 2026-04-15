@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute **[[PDF](https://arxiv.org/abs/2604.12234)]**
 - `Arxiv(2026)`R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation **[[PDF](https://arxiv.org/abs/2604.11440)]**
 - `ICLR(2026)`Efficient Dataset Selection for Continual Adaptation of Generative Recommenders **[[PDF](https://arxiv.org/abs/2604.07739)]**
 - `Arxiv(2026)`Semantic Trimming and Auxiliary Multi-step Prediction for Generative Recommendation **[[PDF](https://arxiv.org/abs/2604.05329)]**
