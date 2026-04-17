@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `SIGIR(2026)`GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation **[[PDF](https://arxiv.org/abs/2604.14878)]**
 - `SIGIR(2026)`Mitigating Collaborative Semantic ID Staleness in Generative Retrieval **[[PDF](https://arxiv.org/abs/2604.13273)]**
 - `Arxiv(2026)`DUET: Joint Exploration of User Item Profiles in Recommendation System **[[PDF](https://arxiv.org/abs/2604.13801)]**
 - `Arxiv(2026)`UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute **[[PDF](https://arxiv.org/abs/2604.12234)]**
