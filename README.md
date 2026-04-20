@@ -16,6 +16,8 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`On the Equivalence Between Auto-Regressive Next Token Prediction and Full-Item-Vocabulary Maximum Likelihood Estimation in Generative Recommendation--A Short Note **[[PDF](https://arxiv.org/abs/2604.15739)]**
+- `SIGIR(2026)`TRACE: A Conversational Framework for Sustainable Tourism Recommendation with Agentic Counterfactual Explanations **[[PDF](https://arxiv.org/abs/2604.14223)]**
 - `Arxiv(2026)`SAGER: Self-Evolving User Policy Skills for Recommendation Agent **[[PDF](https://arxiv.org/abs/2604.14972)]**
 - `Arxiv(2026)`Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model **[[PDF](https://arxiv.org/abs/2604.14051)]**
 - `SIGIR(2026)`GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation **[[PDF](https://arxiv.org/abs/2604.14878)]**
