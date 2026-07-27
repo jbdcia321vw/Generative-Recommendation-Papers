@@ -16,6 +16,9 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Can Generative Recommendation Reach Cold Items? A Temporal Perspective on Semantic-ID Generation **[[PDF](https://arxiv.org/abs/2607.21101)]**
+- `Arxiv(2026)`Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation **[[PDF](https://arxiv.org/abs/2607.21028)]**
+- `Arxiv(2026)`TSGR: Taobao Search Generative Retrieval **[[PDF](https://arxiv.org/abs/2607.18796)]**
 - `Arxiv(2026)`On the Equivalence Between Auto-Regressive Next Token Prediction and Full-Item-Vocabulary Maximum Likelihood Estimation in Generative Recommendation--A Short Note **[[PDF](https://arxiv.org/abs/2604.15739)]**
 - `SIGIR(2026)`TRACE: A Conversational Framework for Sustainable Tourism Recommendation with Agentic Counterfactual Explanations **[[PDF](https://arxiv.org/abs/2604.14223)]**
 - `Arxiv(2026)`SAGER: Self-Evolving User Policy Skills for Recommendation Agent **[[PDF](https://arxiv.org/abs/2604.14972)]**
