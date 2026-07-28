@@ -16,6 +16,13 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`LaRec: Unleashing LLM-based Latent Reasoning for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.24617)]**
+- `Arxiv(2026)`CogRec: Structure-Cognitive Fast-and-Slow Reasoning for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.24402)]**
+- `Arxiv(2026)`OxygenREC-v2: Internalizing Discrimination into Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.24255)]**
+- `Arxiv(2026)`Escaping the Euclidean Void: Manifold-Informed Flow Matching for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2607.23762)]**
+- `Arxiv(2026)`Diffusion Language Model for Recommendation **[[PDF](https://arxiv.org/abs/2607.21519)]**
+- `RecSys(2026)`Topology-Aware Tokenization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.18600)]**
+- `RecSys(2026)`EGR: Embedding-Native Generative Retrieval with a Shared LLM **[[PDF](https://arxiv.org/abs/2607.23038)]**
 - `Arxiv(2026)`Can Generative Recommendation Reach Cold Items? A Temporal Perspective on Semantic-ID Generation **[[PDF](https://arxiv.org/abs/2607.21101)]**
 - `Arxiv(2026)`Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation **[[PDF](https://arxiv.org/abs/2607.21028)]**
 - `Arxiv(2026)`TSGR: Taobao Search Generative Retrieval **[[PDF](https://arxiv.org/abs/2607.18796)]**
