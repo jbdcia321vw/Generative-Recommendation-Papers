@@ -16,6 +16,13 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Reward Guided Decoding for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.25344)]**
+- `Arxiv(2026)`SPARC: Sequence-aware Progressive Attribute Routing and Compression Framework for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.25339)]**
+- `Arxiv(2026)`Grevo: A Unified Generative Recommendation Framework with Evolutionary Item Indexing **[[PDF](https://arxiv.org/abs/2607.25329)]**
+- `Arxiv(2026)`TopoGR: Revealing and Preserving Latent Structure of Semantic ID in Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.25216)]**
+- `Arxiv(2026)`VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.25209)]**
+- `Arxiv(2026)`Understanding Semantic IDs: From Item Representation to Item Selection in Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.24995)]**
+- `RecSys(2026)`Hypothesis-Driven Shelf Generation for Personalised Recommendation **[[PDF](https://arxiv.org/abs/2607.25823)]**
 - `Arxiv(2026)`LaRec: Unleashing LLM-based Latent Reasoning for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.24617)]**
 - `Arxiv(2026)`CogRec: Structure-Cognitive Fast-and-Slow Reasoning for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.24402)]**
 - `Arxiv(2026)`OxygenREC-v2: Internalizing Discrimination into Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.24255)]**
