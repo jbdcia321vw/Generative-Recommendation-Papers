@@ -16,6 +16,9 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`PSG: Pair-Space Generation for Efficient Generative Reranking **[[PDF](https://arxiv.org/abs/2607.26427)]**
+- `Arxiv(2026)`Multi-Decoder OneRec: Controllable Generative Retrieval for Multi-Objective Industrial Recommendation **[[PDF](https://arxiv.org/abs/2607.26500)]**
+- `Arxiv(2026)`Improving Item Discoverability in e-Commerce Search via Related Intent Generation **[[PDF](https://arxiv.org/abs/2607.27172)]**
 - `Arxiv(2026)`Reward Guided Decoding for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.25344)]**
 - `Arxiv(2026)`SPARC: Sequence-aware Progressive Attribute Routing and Compression Framework for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.25339)]**
 - `Arxiv(2026)`Grevo: A Unified Generative Recommendation Framework with Evolutionary Item Indexing **[[PDF](https://arxiv.org/abs/2607.25329)]**
