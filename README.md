@@ -16,6 +16,10 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`From Understanding to Action: Feedback-Grounded Policy Discovery for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.27789)]**
+- `Arxiv(2026)`Restoring Collaborative Signals in Semantic-ID Generative Recommendation via Personalized Natural Language **[[PDF](https://arxiv.org/abs/2607.27682)]**
+- `Arxiv(2026)`LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.27647)]**
+- `Arxiv(2026)`Interpretable Representation via LLM-Driven Generative Disentanglement for Local-Life Service Recommendation **[[PDF](https://arxiv.org/abs/2607.27944)]**
 - `Arxiv(2026)`PSG: Pair-Space Generation for Efficient Generative Reranking **[[PDF](https://arxiv.org/abs/2607.26427)]**
 - `Arxiv(2026)`Multi-Decoder OneRec: Controllable Generative Retrieval for Multi-Objective Industrial Recommendation **[[PDF](https://arxiv.org/abs/2607.26500)]**
 - `Arxiv(2026)`Improving Item Discoverability in e-Commerce Search via Related Intent Generation **[[PDF](https://arxiv.org/abs/2607.27172)]**
