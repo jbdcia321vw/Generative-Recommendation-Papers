@@ -16,6 +16,9 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`EvoReason: Self-Evolving Reasoning Primitive-Guided On-Policy Distillation for Latent Reasoning in Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.29010)]**
+- `Arxiv(2026)`Think2Go: Generative Next POI Recommendation with LLM Reasoning **[[PDF](https://arxiv.org/abs/2607.28997)]**
+- `Arxiv(2026)`LLM-Based Generative Retrieval for Snapchat Content Recommendation **[[PDF](https://arxiv.org/abs/2607.28895)]**
 - `Arxiv(2026)`From Understanding to Action: Feedback-Grounded Policy Discovery for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.27789)]**
 - `Arxiv(2026)`Restoring Collaborative Signals in Semantic-ID Generative Recommendation via Personalized Natural Language **[[PDF](https://arxiv.org/abs/2607.27682)]**
 - `Arxiv(2026)`LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.27647)]**
