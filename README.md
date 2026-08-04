@@ -16,6 +16,12 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Unpaired Modality-Agnostic Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.02477)]**
+- `Arxiv(2026)`SmartGR: Hierarchy and Beam-Aware Knowledge Distillation for Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.02048)]**
+- `Arxiv(2026)`Collaborative Memory Augmentation for Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.01315)]**
+- `Arxiv(2026)`GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval **[[PDF](https://arxiv.org/abs/2608.00938)]**
+- `Arxiv(2026)`Exponential Reward Weighting for Fine-Tuning Generative Recommenders under Sparse and Noisy Feedback **[[PDF](https://arxiv.org/abs/2608.00816)]**
+- `Arxiv(2026)`Hierarchical Residual Policy Optimization for Generative Recommendations **[[PDF](https://arxiv.org/abs/2608.00750)]**
 - `Arxiv(2026)`EvoReason: Self-Evolving Reasoning Primitive-Guided On-Policy Distillation for Latent Reasoning in Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.29010)]**
 - `Arxiv(2026)`Think2Go: Generative Next POI Recommendation with LLM Reasoning **[[PDF](https://arxiv.org/abs/2607.28997)]**
 - `Arxiv(2026)`LLM-Based Generative Retrieval for Snapchat Content Recommendation **[[PDF](https://arxiv.org/abs/2607.28895)]**
