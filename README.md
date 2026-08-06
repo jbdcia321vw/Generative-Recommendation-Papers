@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval **[[PDF](https://arxiv.org/abs/2608.03150)]**
 - `Arxiv(2026)`Unpaired Modality-Agnostic Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.02477)]**
 - `Arxiv(2026)`SmartGR: Hierarchy and Beam-Aware Knowledge Distillation for Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.02048)]**
 - `Arxiv(2026)`Collaborative Memory Augmentation for Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.01315)]**
