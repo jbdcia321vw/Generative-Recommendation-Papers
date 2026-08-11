@@ -16,6 +16,10 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Adaptive Semantic Capacity Allocation for Parallel Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.09685)]**
+- `Arxiv(2026)`IntHQ: Task-Interactive Hierarchical Query on Dual-Stream Representations for Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.09634)]**
+- `Arxiv(2026)`PushDualGen: Enabling LLMs to Generate Semantic IDs with Interpretable Copy for Industrial Push Recommendation **[[PDF](https://arxiv.org/abs/2608.07989)]**
+- `Arxiv(2026)`Preserving Item Semantics for Free: Rethinking Token Initialization in LLM-Based Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.07816)]**
 - `Arxiv(2026)`Hierarchical Quantization with Domain-Adaptive Sparse Routing for Generative Cross-Domain Recommendation **[[PDF](https://arxiv.org/abs/2608.06997)]**
 - `Arxiv(2026)`From Classification to Recommendation: Empirical Analysis of Audio Embedding Models Application for Content-Based Music Recommendation **[[PDF](https://arxiv.org/abs/2608.06928)]**
 - `RecSys(2026)`Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity **[[PDF](https://arxiv.org/abs/2608.03272)]**
