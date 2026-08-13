@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `CIKM(2026)`HCGRec: Hint-Conditioned Generative Recommendation with Semantic IDs **[[PDF](https://arxiv.org/abs/2608.11980)]**
 - `Arxiv(2026)`Sona Technical Report **[[PDF](https://arxiv.org/abs/2608.11015)]**
 - `CIKM(2026)`FedCGR: Federated Cross-Domain Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.10929)]**
 - `Arxiv(2026)`Adaptive Semantic Capacity Allocation for Parallel Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.09685)]**
