@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`EchoRec: Multi-Item Prediction-Empowered Generative Recommendation via Cycle-Consistent Preference Alignment **[[PDF](https://arxiv.org/abs/2608.14011)]**
 - `Arxiv(2026)`FSGR: Mitigating Token Frequency Bias for Fair SID-Based Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.12845)]**
 - `Arxiv(2026)`Token-Level Credit Assignment Optimization for Generative Document Retrieval **[[PDF](https://arxiv.org/abs/2608.12049)]**
 - `CIKM(2026)`HCGRec: Hint-Conditioned Generative Recommendation with Semantic IDs **[[PDF](https://arxiv.org/abs/2608.11980)]**
