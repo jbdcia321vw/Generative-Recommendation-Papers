@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Once Generated, Ranked: End-to-End Generative Slate Recommendation with Unified Semantic-Collaborative IDs **[[PDF](https://arxiv.org/abs/2608.17613)]**
 - `CIKM(2026)`Decoupled Temporal Encoding for Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.16274)]**
 - `Arxiv(2026)`EchoRec: Multi-Item Prediction-Empowered Generative Recommendation via Cycle-Consistent Preference Alignment **[[PDF](https://arxiv.org/abs/2608.14011)]**
 - `Arxiv(2026)`FSGR: Mitigating Token Frequency Bias for Fair SID-Based Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.12845)]**
