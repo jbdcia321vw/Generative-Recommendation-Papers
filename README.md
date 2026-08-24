@@ -16,6 +16,9 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`From a Static Multi-Level Small Semantic Codebook to a Dynamic Single-Level Large Semantic Codebook for Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.21012)]**
+- `Arxiv(2026)`Difficulty-Aware Semantic-ID Optimization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.20611)]**
+- `CIKM(2026)`Training-Free LLM-Based Recommendation with Post-LLM Item Refinement Using Collaborative Signals **[[PDF](https://arxiv.org/abs/2608.19665)]**
 - `Arxiv(2026)`SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.18779)]**
 - `Arxiv(2026)`Once Generated, Ranked: End-to-End Generative Slate Recommendation with Unified Semantic-Collaborative IDs **[[PDF](https://arxiv.org/abs/2608.17613)]**
 - `CIKM(2026)`Decoupled Temporal Encoding for Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.16274)]**
