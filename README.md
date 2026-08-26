@@ -16,6 +16,8 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`TAGR: Temporally Adaptive Generative Recommendation for Industrial Live-Streaming Advertising **[[PDF](https://arxiv.org/abs/2608.24034)]**
+- `Arxiv(2026)`PRQ-KMeans: Projection Residual Quantization for Semantic ID Tokenization **[[PDF](https://arxiv.org/abs/2608.24207)]**
 - `Arxiv(2026)`Adaptive Item-based Collaborative Structures via Noise Rescheduling in Diffusion for Generative Recommendation **[[PDF](https://arxiv.org/abs/2608.23400)]**
 - `RecSys(2026)`The Disconnect Between Better Descriptive Reasoning Trace Quality and Recommendation Effectiveness **[[PDF](https://arxiv.org/abs/2608.23154)]**
 - `CIKM(2026)`Rethinking Item Tokenization in Generative Recommenders: From Fixed Atoms to Semantic Subwords **[[PDF](https://arxiv.org/abs/2608.22734)]**
