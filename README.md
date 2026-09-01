@@ -16,6 +16,12 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`TAAL: Mitigating Early Beam Pruning in Generative Recommendation via Temporal Autoregressive Alignment **[[PDF](https://arxiv.org/abs/2608.29179)]**
+- `Arxiv(2026)`Off-Policy Evaluation for Semantic ID Recommenders: Does the Model's Own Code Hierarchy Help? **[[PDF](https://arxiv.org/abs/2608.28905)]**
+- `EMNLP(2026)`Preference Shapes Relevance: Cross-component Hierarchical Semantic Alignment for Personalized Generative Retrieval **[[PDF](https://arxiv.org/abs/2608.30553)]**
+- `Arxiv(2026)`HF-SID: High-Fidelity Semantic IDs for Generative Retrieval in Location-Based Services **[[PDF](https://arxiv.org/abs/2608.30479)]**
+- `Arxiv(2026)`ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search **[[PDF](https://arxiv.org/abs/2608.29652)]**
+- `Arxiv(2026)`Generative Retrieval for E-commerce: Jointly Learning Embedding and Codebook with Same Product Cluster **[[PDF](https://arxiv.org/abs/2608.30606)]**
 - `Arxiv(2026)`PailitaoGR: Latent Think-with-Images for Generative Image Retrieval **[[PDF](https://arxiv.org/abs/2608.26658)]**
 - `Arxiv(2026)`TAGR: Temporally Adaptive Generative Recommendation for Industrial Live-Streaming Advertising **[[PDF](https://arxiv.org/abs/2608.24034)]**
 - `Arxiv(2026)`PRQ-KMeans: Projection Residual Quantization for Semantic ID Tokenization **[[PDF](https://arxiv.org/abs/2608.24207)]**
