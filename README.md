@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`SPAR: Enhancing Industrial-Scale Generative POI Recommendation via Real-World Spatial Perception **[[PDF](https://arxiv.org/abs/2609.02062)]**
 - `Arxiv(2026)`TGR: Advancing Industrial Recommendation from Generative-Paradigm Ranking toward Unified Generation and Reasoning **[[PDF](https://arxiv.org/abs/2609.00986)]**
 - `Arxiv(2026)`TAAL: Mitigating Early Beam Pruning in Generative Recommendation via Temporal Autoregressive Alignment **[[PDF](https://arxiv.org/abs/2608.29179)]**
 - `Arxiv(2026)`Off-Policy Evaluation for Semantic ID Recommenders: Does the Model's Own Code Hierarchy Help? **[[PDF](https://arxiv.org/abs/2608.28905)]**
