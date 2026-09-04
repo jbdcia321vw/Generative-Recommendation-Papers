@@ -16,6 +16,10 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`EPIC: Explicit Posterior Item Conditioning for Semantic ID Diffusion Recommendation **[[PDF](https://arxiv.org/abs/2609.03522)]**
+- `Arxiv(2026)`HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Generative Recommender Systems **[[PDF](https://arxiv.org/abs/2609.03369)]**
+- `CIKM(2026)`SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation **[[PDF](https://arxiv.org/abs/2609.03313)]**
+- `Arxiv(2026)`WIDE: Wildcard Inference with Dynamic Expansion for Cross-Modal Generative Retrieval **[[PDF](https://arxiv.org/abs/2609.03554)]**
 - `Arxiv(2026)`SPAR: Enhancing Industrial-Scale Generative POI Recommendation via Real-World Spatial Perception **[[PDF](https://arxiv.org/abs/2609.02062)]**
 - `Arxiv(2026)`TGR: Advancing Industrial Recommendation from Generative-Paradigm Ranking toward Unified Generation and Reasoning **[[PDF](https://arxiv.org/abs/2609.00986)]**
 - `Arxiv(2026)`TAAL: Mitigating Early Beam Pruning in Generative Recommendation via Temporal Autoregressive Alignment **[[PDF](https://arxiv.org/abs/2608.29179)]**
