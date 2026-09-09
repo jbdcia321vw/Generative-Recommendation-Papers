@@ -16,6 +16,8 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`Enabling High-Bandwidth Flash for Generative Recommendation Serving with Write-Aware KV Cache Policy **[[PDF](https://arxiv.org/abs/2609.07175)]**
+- `Arxiv(2026)`Exploring Bottom-Up Clustering for Creating Semantic IDs **[[PDF](https://arxiv.org/abs/2609.08310)]**
 - `Arxiv(2026)`EPIC: Explicit Posterior Item Conditioning for Semantic ID Diffusion Recommendation **[[PDF](https://arxiv.org/abs/2609.03522)]**
 - `Arxiv(2026)`HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Generative Recommender Systems **[[PDF](https://arxiv.org/abs/2609.03369)]**
 - `CIKM(2026)`SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation **[[PDF](https://arxiv.org/abs/2609.03313)]**
