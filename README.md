@@ -16,6 +16,14 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`ReliGRec: Reliability-Oriented LLM-Based Generative Recommendation via User-Risk-Aware Prompt Routing **[[PDF](https://arxiv.org/abs/2609.16560)]**
+- `CIKM(2026)`Self-Evolving Memory for Generative Recommendation **[[PDF](https://arxiv.org/abs/2609.15598)]**
+- `Arxiv(2026)`Efficient Multimodal Generative Recommendation with Latent Narrative Reasoning **[[PDF](https://arxiv.org/abs/2609.16070)]**
+- `RecSys(2026)`Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation **[[PDF](https://arxiv.org/abs/2609.13678)]**
+- `Arxiv(2026)`Preference-Drift-Aware Subsequence Learning and Hierarchical Context Fusion for Long-Sequence Generative Recommendation **[[PDF](https://arxiv.org/abs/2609.12556)]**
+- `Arxiv(2026)`OneLA: Scaling Linear-Attention Decoding to Large Beams in Generative Recommendation **[[PDF](https://arxiv.org/abs/2609.12399)]**
+- `Arxiv(2026)`Evaluating Brand Retrieval and Ranking in Large Language Model Recommendations **[[PDF](https://arxiv.org/abs/2609.16304)]**
+- `Arxiv(2026)`VARG: Value-Aware and Ranking-Aligned Generative Retrieval for Dynamic E-commerce Search **[[PDF](https://arxiv.org/abs/2609.14493)]**
 - `Arxiv(2026)`Enabling High-Bandwidth Flash for Generative Recommendation Serving with Write-Aware KV Cache Policy **[[PDF](https://arxiv.org/abs/2609.07175)]**
 - `Arxiv(2026)`Exploring Bottom-Up Clustering for Creating Semantic IDs **[[PDF](https://arxiv.org/abs/2609.08310)]**
 - `Arxiv(2026)`EPIC: Explicit Posterior Item Conditioning for Semantic ID Diffusion Recommendation **[[PDF](https://arxiv.org/abs/2609.03522)]**
