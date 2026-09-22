@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `SIGIR-AP(2026)`What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study **[[PDF](https://arxiv.org/abs/2609.24430)]**
 - `Arxiv(2026)`Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself **[[PDF](https://arxiv.org/abs/2609.13657)]**
 - `Arxiv(2026)`LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era **[[PDF](https://arxiv.org/abs/2609.18148)]**
 - `Arxiv(2026)`ReliGRec: Reliability-Oriented LLM-Based Generative Recommendation via User-Risk-Aware Prompt Routing **[[PDF](https://arxiv.org/abs/2609.16560)]**
