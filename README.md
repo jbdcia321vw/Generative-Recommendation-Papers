@@ -16,6 +16,10 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`From Interests to Semantic IDs: Retrieval-Grounded Credit Assignment for Generative Recommendation **[[PDF](https://arxiv.org/abs/2609.29983)]**
+- `Arxiv(2026)`Learning Better Reasoning for Generative Recommendation with Semantic IDs **[[PDF](https://arxiv.org/abs/2609.29973)]**
+- `CIKM(2026)`Cross-Country Code-Mixing for Generative Recommendation **[[PDF](https://arxiv.org/abs/2609.28972)]**
+- `Arxiv(2026)`X-Rec Technical Report **[[PDF](https://arxiv.org/abs/2609.29180)]**
 - `Arxiv(2026)`IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts **[[PDF](https://arxiv.org/abs/2609.21346)]**
 - `SIGIR-AP(2026)`What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study **[[PDF](https://arxiv.org/abs/2609.24430)]**
 - `Arxiv(2026)`Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself **[[PDF](https://arxiv.org/abs/2609.13657)]**
