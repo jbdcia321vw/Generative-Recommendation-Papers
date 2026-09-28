@@ -16,6 +16,7 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2609.30576)]**
 - `Arxiv(2026)`OneTrans-V2: Unifying Retrieval, Pre-rank, and Fine-rank with One Transformer in Industrial Recommender **[[PDF](https://arxiv.org/abs/2609.28589)]**
 - `Arxiv(2026)`From Interests to Semantic IDs: Retrieval-Grounded Credit Assignment for Generative Recommendation **[[PDF](https://arxiv.org/abs/2609.29983)]**
 - `Arxiv(2026)`Learning Better Reasoning for Generative Recommendation with Semantic IDs **[[PDF](https://arxiv.org/abs/2609.29973)]**
