@@ -16,6 +16,8 @@ Category
 - `LREC/COLING(2024)`Large Language Models for Generative Recommendation: A Survey and Visionary Discussions **[[PDF](https://arxiv.org/abs/2309.01157)]**
 
 ### Generative Recommendation
+- `Arxiv(2026)`GRP v0.1 Technical Report **[[PDF](https://arxiv.org/abs/2609.36688)]**
+- `Arxiv(2026)`FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation **[[PDF](https://arxiv.org/abs/2609.36670)]**
 - `Arxiv(2026)`SPRINT: Single-Step Generative Recommendation via Average Probability Velocity **[[PDF](https://arxiv.org/abs/2609.34306)]**
 - `Arxiv(2026)`Beyond the Beam: Constructive Repair and Candidate Completion for Generative Recommendation **[[PDF](https://arxiv.org/abs/2609.33745)]**
 - `Arxiv(2026)`Plan-to-Synthesis: Cross-City Human Mobility Generation via Semantic Latent Flow Matching **[[PDF](https://arxiv.org/abs/2609.32732)]**
